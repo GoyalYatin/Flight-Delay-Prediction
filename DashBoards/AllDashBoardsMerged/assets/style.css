@@ -1,0 +1,22 @@
+a:link, a:visited {
+  background-color: #00187c;
+  color: white;
+  padding: 0px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 22px;
+  width:300px;
+  height: 250px;
+  display: table-cell;
+  vertical-align: middle;
+  font-family: "Verdana", sans-serif
+  float:left;
+}
+
+a:hover, a:active {
+  background-color: #1231aa;
+}
+
+.divclass{
+    background-color: #000066;
+}

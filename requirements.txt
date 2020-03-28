@@ -1,0 +1,14 @@
+sklearn
+keras
+dash
+plotly
+pandas
+numpy
+imblearn
+pymongo
+matplotlib
+DateTime
+scipy
+app
+cmocean
+squarify
