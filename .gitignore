@@ -1,2 +1,5 @@
 *.class
 *.log
+*.sav
+*.pyc
+*.csv
