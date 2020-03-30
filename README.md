@@ -27,7 +27,7 @@ IMPORTANT NOTE
 - Do not temper with any other folder setup in [AllDashBoardsMerged](DashBoards/AllDashBoardsMerged) folder.
 
 ## 1.1 Software testing with preprocessed data
-- You can download the cleaned data (tested working) from [OneDrive](https://amadeusworkplace.sharepoint.com/sites/PredictiveFlightAnalysis/Shared%20Documents/Forms/AllItems.aspx).
+- You can use the cleaned data (tested working), to download please download and install git-lfs to do so please follow https://git-lfs.github.com/
 - Just copy the downloaded csv files to [Data](DashBoards/AllDashBoardsMerged/Data) folder.
 - Make sure that you have installed all libraries as mentioned in [libraries](libraries.md) document.
 - Go to command prompt and change directory to [Delay Models](Prediction-Phase-ML/DelayModels).
